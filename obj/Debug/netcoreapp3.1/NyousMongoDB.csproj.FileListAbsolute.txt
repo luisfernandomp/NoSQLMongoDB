@@ -1,0 +1,12 @@
+C:\Users\fic\Desktop\NyousMongoDB\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fic\Desktop\NyousMongoDB\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fic\Desktop\NyousMongoDB\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fic\Desktop\NyousMongoDB\bin\Debug\netcoreapp3.1\NyousMongoDB.exe
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\NyousMongoDB.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\NyousMongoDB.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\NyousMongoDB.AssemblyInfo.cs
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\NyousMongoDB.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\staticwebassets\NyousMongoDB.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\staticwebassets\NyousMongoDB.StaticWebAssets.xml
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\NyousMongoDB.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\NyousMongoDB\obj\Debug\netcoreapp3.1\NyousMongoDB.MvcApplicationPartsAssemblyInfo.cache
